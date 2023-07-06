@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# About Project
 
 This is a no-CSS project made to learn and implement GraphQL powering authentication and different mutation and queries.
 I only made this to learn GraphQL so this is not a real dedicated project, but the idea is similar to [QuickQR](https://github.com/aditygrg2/quickQR) made earlier.
